@@ -15,7 +15,3 @@ This repository serves as a collection of resources to accompany my journey thro
 ## Resources
 
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp): The tutorial that this repository is based on. Visit W3Schools for comprehensive JavaScript learning resources.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
